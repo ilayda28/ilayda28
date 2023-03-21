@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/noyBeNjH4nbtXV5ZLA/giphy.gif" align="right" width="300" height="250">
 <h1 align="center">Hi 👋, I'm İlayda</h1>
-<h3 align="center">I'm a passionate mobile developer from Turkey and I love being part of the development of mobile technologies.</h3>
+<h3 align="center">I'm a passionate mobile developer from Turkey and I love being part of the development of mobile technologies.I want to gain experience and advance in my career path.</h3>
 
 - 📫 How to reach me **ilaydasenakeles28@gmail.com**
 
