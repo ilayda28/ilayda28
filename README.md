@@ -1,4 +1,4 @@
-
+<iframe src="https://giphy.com/embed/XGhTPVMgzLv7s2TOE6" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/episode-5-friends-tv-the-one-with-frank-jr-XGhTPVMgzLv7s2TOE6">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm İlayda</h1>
 <h3 align="center">I'm a passionate mobile developer from Turkey and I love being part of the development of mobile technologies.I want to gain experience and advance in my career path.</h3>
 
