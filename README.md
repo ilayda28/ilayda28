@@ -1,4 +1,3 @@
-<img src="https://giphy.com/embed/XGhTPVMgzLv7s2TOE6" width="480" height="400" />
 <h1 align="center">Hi 👋, I'm İlayda</h1>
 <h3 align="center">I'm a passionate mobile developer from Turkey and I love being part of the development of mobile technologies.I want to gain experience and advance in my career path.</h3>
 
