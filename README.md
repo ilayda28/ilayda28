@@ -1,5 +1,4 @@
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZjMjE0NzRmNGYxOGJkMWM0MTY0NWVlZDY3ZGFmYTM5NDQ0ZTc4ZCZjdD1n/XGhTPVMgzLv7s2TOE6/giphy.gif" align="right" width="300" height="250">
+<img src="https://media.giphy.com/media/noyBeNjH4nbtXV5ZLA/giphy.gif" align="right" width="300" height="250">
 <h1 align="center">Hi 👋, I'm İlayda</h1>
 <h3 align="center">I'm a passionate mobile developer from Turkey and I love being part of the development of mobile technologies.I want to gain experience and advance in my career path.</h3>
 
